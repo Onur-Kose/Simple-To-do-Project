@@ -36,7 +36,7 @@ import Iter "mo:base/Iter";
 import Text "mo:base/Text";
 
 
-##English:
+**English:** 
 This smart contract allows you to:
 
 -Add a To-Do: Create a new to-do item with a description.
@@ -46,7 +46,7 @@ By using this structure, you can efficiently manage your tasks in a decentralize
 
 Feel free to modify and extend this smart contract to fit your specific needs.
 
-##Türkçe:
+**Türkçe:**  
 Bu akıllı sözleşme ile şunları yapabilirsiniz:
 
 -Görev Ekleme: Açıklaması olan yeni bir görev oluşturun.
